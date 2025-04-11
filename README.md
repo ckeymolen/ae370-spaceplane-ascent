@@ -101,7 +101,7 @@ Finer resolution shows how aggressive burn strategies need more thrust.
 
 **Sensitivity to ±10% Parameter Variation**  
 Bar chart showing which variables impact altitude most.  
-![Sensitivity](figs/Sensitivity%20to%20+-%2010%%20Parameter%20Variation.png)
+![Sensitivity](figs/Sensitivity%20to%20+-%2010%25%20Parameter%20Variation.png)
 
 ##  How to Run the Simulation
 
