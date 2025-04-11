@@ -43,16 +43,6 @@ AE370_Spaceplane_Dynamics/ │ ├── code/ # All Python scripts and RK4 inte
 
 
 ---
-
-##  Sample Output
-
-| Plot | Description |
-|------|-------------|
-| ![Karman Map](results/karman_map_base.png) | Feasibility region for crossing 100 km |
-| ![Sensitivity](results/sensitivity_bar_chart.png) | Altitude sensitivity to thrust, drag, burn rate |
-
----
-
 ##  How to Run the Simulation
 
 1. Clone the repository:
